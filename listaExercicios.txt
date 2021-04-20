@@ -1,0 +1,164 @@
+01. Crie um programa que leia dois números e mostre a soma entre eles.
+
+02. Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações
+    possíveis sobre ela.
+
+03. Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
+
+04. Crie um programa que leia um número e mostre o seu dobro o triplo e a raiz quadrada.
+
+05. Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
+
+06. Escreva um programa que leia um valor em metros e exiba convertido em centímetros e milímetros.
+
+07. Faça um programa que leia um número inteiro qualquer e mostre na tela sua tabuada.
+
+08. Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
+    Considere US$ 1.00 = R$ 3,27.
+
+09. Faça um programa que leia a largura e a altura de uma parede em metros,calcule sua área e a quantidade de tinta
+    necessária para pinta-la, sabendo que cada litro de tinta, pinta uma área de 2m².
+
+10. Faça um algoritmo que leia o preço de um produto e mostre seu novo preço, com 5% de desconto.
+
+11. Faça um algoritmo que leia o salário de um funcionário e mostre seu novo salário, com 15% de aumento.
+
+12. Escreva um programa que escreva uma temperatura digitada em  °C e converta para °F.
+
+13. Escreva um programa que pergunte a quantidade de Km percorridos por um carro alugado e a quantidade de dias
+    pelos quais ele foi alugado. Calcule o preço a pagar, sabendo que o carro custa R$60 por dia e R$0,15 por KM rodado.
+
+14.Crie um programa que leia um número Real qualquer pelo teclado e mostre na tela sua porção inteira.
+
+15. Faça um programa que leia o comprimento do cateto oposto e do cateto adjacente de um triangulo retangulo,
+    calcule e mostre o comprimento da hipotenuza.
+
+16.Faça um programa que leia um ângulo qualquer e mostre na tela o valor do seno, cosseno e tangente desse ângulo.
+
+17.Um professor quer sortear um dos seus quatro alunos para apagar o quadro. Faça um programa que ajude ele, lendo o
+   nome delas e escrevendo o nome do escolhido.
+
+18.Um professor quer sortear a ordem de apresentação de trabalhos dos alunos.
+Faça um programa que leia o nome dos quatro alunos e mostre a ordem sorteada.
+
+19. Crie um programa que leia o nome completo de uma pessoa e mostre,
+    o nome com todas as letras maiúsculas, o nome com todas minúsculas
+    Quantas letras tem no total (sem considerar espaços).
+
+20.Faça um programa que leia os números entre 0 e 9999 e mostre na tela cada um dos dígitos separados.
+
+21.Crie um programa que leia o nome de uma cidade e diga se ela começa ou não com o nome 'Santo'
+
+22.Crie um programa que leia o nome de uma pessoa e diga se ela tem 'SILVA' no nome.
+
+23.Faça um programa que leia uma frase pelo teclado e mostre:
+    Quantas vezes aparece a letra 'A'.
+    Em que posição ela aparece a primeira vez.
+    Em que posição ela aparece a última vez.
+
+24.Faça um programa que leia o nome completo de uma pessoa,
+   mostrando em seguida o primeiro e o último nome separadamente.
+
+25. Escreva um programa que faça o computador pensar em um numero inteiro de 0 a 5,
+    e peça para o usuário tentar descobrir qual foi o número escolhido pelo computador.
+    O programa deverá escrever na tela se o usuário acertou ou não.
+
+26. Escreva um programa que leia a velocidade de um carro.
+    Se esse ultrapassar 80km/h, mostre uma mensagem dizendo que ele foi multado.
+    A multa vai custar R$7,00 por cada km acima do limite.
+
+27. Crie um programa que leia um número inteiro na tela e mostre se ele é par ou ímpar.
+
+28. Desenvolva um programa que pergunte a distância de uma viagem em KM.
+    Calcule o preço da passagem, cobrando R$0,50 por KM para viagens até 200KM e R$0,45 para viagens mais longas.
+
+29.Faça um programa que leia um ano qualquer e mostre se ele é BISSEXTO.
+
+30. Faça um programa que leia três numeros e mostra qual deles é o maior e qual é o menor.
+
+31. Escreva um programa que pergunte o salário de um funcionário e calcule o valor do seu aumento.
+    Para salários superiores a R$1.250,00, calcule um aumento de 10%.
+    Para os inferiores ou iguais, o aumento será de 15%.
+
+32.Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um triangulo.
+
+33. Escreva um programa para aprovar um empréstimo bancário para a compra de uma casa.
+    O programa vai perguntar o valor da casa, o salário do comprador e em quantos anos ele vai pagar.
+    Calcule o valor da prestação mensal, sabendo que ela não pode exceder 30% do salário ou então empréstimo será negado.
+
+34. Escreva um programa qe leia dois números inteiros e compare-os, mostrando na tela uma mensagem:
+    O primeiro valor é maior.
+    O segundo valor é maior.
+    Não existe valor maior, os dois são iguais.
+
+35. Faça um programa que leia o ano de nascimento de um jovem e informe, de acordo com sua idade,
+    se ele ainda vai se alistar ou se ja passou do tempo do alistamento.
+    Seu programa tambem deverá mostrar e tempo que falta ou o tempo que passou do prazo.
+
+36. Crie um programa que leia as duas notas de um aluno e calcule sua média, mostando uma mensagem no final,
+    de acordo com a média atingida:
+    Media abaixo de 5.0: REPROVADO
+    Média entre 5.0 e 6.9 RECUPERAÇÃO
+    Média 7.0 ou superior: APROVADO
+
+37. A Confederação Nacional de Natação precisa de um programa que leia o ano de nascimento de um atleta e mostre sua
+    categoria, de acordo com a idade:
+    Até 9 anos: MIRIM
+    Até 14 anos: INFANTIL
+    Até 19 anos: JUNIOR
+    Até 25 anos: SENIOR
+    Acima: MASTER
+
+38.Refaça o exercicio 035 dos triangulos, acrescentando o recurso de mostrar que tipo de triangulo será formado:
+    Equilatero: todos os lados iguais.
+    Isóceles: dois lados iguais.
+    Escaleno: todos os lados diferentes.
+
+39. Desenvolva uma logica que leia o peso e a altura de uma pessoa, calcule o seu IMC e mostre seu status,
+    de acordo com a tabela abaixo.
+    Abaixo de 18.5: Abaixo do peso.
+    Entre 18.5 e 25: Peso ideal.
+    Entre 25 e 30: Sobrepeso.
+    Entre 30 e 40: Obesidade.
+    Acima de 40: Obesidade Morbida.
+
+40. Elabore um programa que calcule o valor a ser pago por um produto considerando o seu preço normal,e condição
+    de pagamento:
+    À vista dinheiro / cheque: 10% de desconto.
+    À vista no cartão: 5% de desconto.
+    Em até 2x no cartão: preço normal.
+    3x ou mais no cartão: 20% de juros.
+
+41.Crie um programa que faça o computador jogar JOKENPÔ com você.
+
+42. Faça um programa que mostre na tela uma contagem regressiva para o estouro de fogos de artifício, indo de 10 até 0,
+    com uma pausa de 1 segundo entre eles.
+
+43.Crie um programa que mostre na tela todos os números pares que estão no intervalo de 1 a 50.
+
+44.Faça um programa que calcule a soma entre todos os números impares que são multiplos de três e que se encontram
+    no intervalo de 1 a 500.
+
+45. Refaça o desafio 009, mostando a tabuada de um número que o usuário escolher, só que agora utilizando um laço for.
+
+46.Desenvolva um programa que leia seis números inteiros e mostre a soma apenas daqueles que forem pares.
+   Se o valor digitado for ímpar, desconsidere-o.
+
+47.Desenvolva um programa que leia o primeiro termo e a razão de uma PA. No final, mostre os 10 primeiros termos desssa
+   progressão.
+
+48.Faça um programa que leia um número inteiro e diga se ele é ou não um número primo.
+
+49.Crie um programa que leia o ano de nascimento de sete pessoas.
+   No final, mostre quantas pessoas ainda não atigiram a maioridade e quantas já são maiores.
+
+50.Faça um programa que leia o peso de cinco pessoas, No final, mostre qual foi o maior e o menor peso lidos.
+
+51.Faça um programa que leia o sexo de uma pessoa, mas só aceite os valores 'M' ou 'F'. Caso esteja errado,
+   peça a digitação novamente até um valor correto.
+
+52.Refaça o desafio 051, lendo o primeiro termo da razão de uma PA,
+   mostrando os 10 primeiros termos da progressão usando a estrutura while
+
+53. Melhore o desafio 061, perguntando para o usuário se ele que mostrar mais alguns termos.
+    O programa encerra quando ele disser que quer mostrar 0 termos
